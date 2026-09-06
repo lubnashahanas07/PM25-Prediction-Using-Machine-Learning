@@ -1,0 +1,6 @@
+Model,R2,MAE,RMSE
+XGBoost,0.656,44.541,67.205
+Random Forest,0.653,45.381,67.536
+Gradient Boosting,0.653,44.854,67.579
+Decision Tree,0.554,49.805,76.552
+AdaBoost,0.553,51.877,76.613
